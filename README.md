@@ -2,14 +2,14 @@
 
 <div align=center>
 
-[My WorkSpace](https://dash-clicks.herokuapp.com/)
+[My WorkSpace](https://dash-clicks.netlify.com/)
 
 </div>
 
 ## 🔰 An Insight
 Replace clipboards with digital workspace
 
-Demo: [click here](https://dash-clicks.herokuapp.com/)
+Demo: [click here](https://dash-clicks.netlify.com/)
 ### Technologies used:
 - Backend: NodeJS (ExpressJs)
 - Frontend: ReactJS, MaterialUI, JSX, CSS
